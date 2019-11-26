@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Dania_Kalender_Datamodel</RootNamespace>
+    <StartupObject>Dania_Kalender_Datamodel.Program</StartupObject>
+    <RuntimeIdentifiers>osx.10.11-x64</RuntimeIdentifiers>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+</Project>
